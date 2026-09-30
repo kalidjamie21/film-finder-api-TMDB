@@ -1,5 +1,5 @@
 
-const tmdbKey = '65604a2d777766a1d3ca7b3906971919';
+const tmdbKey = '';
 const tmdbBaseUrl = 'https://api.themoviedb.org/3';
 
 // TASK 1: Fetch the available movie genres.
